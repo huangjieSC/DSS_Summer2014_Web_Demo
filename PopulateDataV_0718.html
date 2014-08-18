@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    
+    <style>
+  .thumb {
+    height: 75px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+  }
+</style>
+</head>
+<body>
+<div>
+    <select id="myselect">
+      <option>---</option>
+      <option>Milk</option>
+      <option>Coffee</option>
+      <option>Tea</option>
+    </select>
+</div>
+<div>
+    <textarea id="result"></textarea>
+    <br>
+    
+    <button type="button" id="change_O2">Click to populate inputs!</button> 
+    <input type="checkbox" name="O2" id ="O2" value="Not Achieved">Not Achieved
+    <br>
+    
+    O2_A: <input type="text" name="O2_A" id="O2_A" value=""> 
+    <br>
+    
+    <input type="radio" name="sex" value="male" id="male">Male<br>
+    <input type="radio" name="sex" value="female" id="female">Female
+    <br>
+    
+    <textarea rows="4" cols="50" id="textarea"></textarea>
+    <br>
+    
+    <input type="file" />
+    <input type="submit" value="Submit file">
+</div>
+    
+<input type="file" id="files" name="files[]" multiple />
+<output id="list"></output>
+
+<script>
+  function handleFileSelect(evt) {
+    var files = evt.target.files; // FileList object
+
+    // Loop through the FileList and render image files as thumbnails.
+    for (var i = 0, f; f = files[i]; i++) {
+
+      // Only process image files.
+      if (!f.type.match('image.*')) {
+        continue;
+      }
+
+      var reader = new FileReader();
+
+      // Closure to capture the file information.
+      reader.onload = (function(theFile) {
+        return function(e) {
+          // Render thumbnail.
+          var span = document.createElement('span');
+          span.innerHTML = ['<img class="thumb" src="', e.target.result,
+                            '" title="', escape(theFile.name), '"/>'].join('');
+          document.getElementById('list').insertBefore(span, null);
+        };
+      })(f);
+
+      // Read in the image file as a data URL.
+      reader.readAsDataURL(f);
+    }
+  }
+
+  document.getElementById('files').addEventListener('change', handleFileSelect, false);
+</script>
+    
+    
+    
+    
+    
+<script>
+    var text = '{"name":"John Johnson","street":"Oslo West 16","phone":"555 1234567"}'
+    var obj = JSON.parse(text);
+    
+    $(document).ready(function()
+    {
+        $('#myselect').change(function()
+        {
+            var selected = $(this).find(':selected').html();
+            $.post('PopulateDataPHP_0718.php', {'beverage': selected}, function(data) {
+              $('#result').html(data);
+            });
+        }); 
+        $('#change_O2').click(function(){
+                $('#O2').prop('checked', true);
+                $('#O2_A').val(obj.name );
+                $("#female").prop("checked", true);
+                $('#textarea').val(obj.street);
+            });
+    });
+</script>
+</body>
+</html>

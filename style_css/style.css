@@ -1,0 +1,136 @@
+body{text-align: justify; 
+		font-family: Arial, Helvetica, sans-serif;
+		background-color: #f2f5f7;
+		font-size: 0.85em;
+	}
+	#main{margin: 50px;}
+	header{text-align: center;}
+	table{font-size: 10pt; text-align: center;}
+	.textbox { 
+		height: 25px; 
+		width: 275px; 
+		background-color: transparent;  
+		border-style: solid;  
+		border-width: 0px 0px 2px 0px;  
+		border-color: #007CCF; 
+		outline:0; 
+	} 
+
+	p{text-align: justify;}
+
+	header{text-align: center;}
+
+	#tabs a{
+		font-size: 0.7em;
+	}
+
+	.all_table input{width: 97%;}
+
+	.explain{
+		height: 50px;
+		width: 1000px;
+		border: 2px solid #007CCF;
+	}
+
+	.radio{
+		margin-right: 80px;
+	}
+
+	.checkbox{
+		margin-right: 20px;
+	}
+	
+	.answerStyle{
+		color: #007CCF;
+	}
+
+	.labelMargin{
+		margin-right: 100px;
+	}
+
+	#progressbar{
+	}
+	
+	#goToOutcome2{
+		float: left;
+	}
+	
+	button:hover{
+		background: #3375B5;
+		color: white;
+	}
+	button{
+		width: 300px;
+		font-size: 16pt;
+	}
+
+	.quesMcheck input{
+		margin-right: 20px;
+	}
+
+	table{text-align: left;}
+
+	span{font-size: 18pt;}
+
+	#demoHead{
+		background-image:url('calendar.jpg');	
+		background-repeat: no-repeat;
+	}
+
+	.top-bar {
+	color: white;
+	margin: 0;
+	padding: 20px;
+	background-color: #E9F5D3;
+	border-radius: 8px;
+	}
+.top-bar img {padding: 6px 4px 2px 4px;}
+.top-bar input {padding: 4px 12px 4px 12px; margin: 8px 4px 4px 4px; border: none; border-radius: 13px; text-align: left;}
+.top-bar h1 {padding: 4px; margin: 0;}
+
+.left3 {float: left; text-align: left;}
+.middle3 {margin-left: auto; margin-right: auto; text-align: center;}
+.right3 {float: right; text-align: right;}
+.top-bar-end {clear: both;}
+
+#searchresults li {font-weight: bold; line-height: 150%;}
+
+#demoHead {
+  background: url('../images/cfsr_logo.png') left center no-repeat, url('.../images/acf_logo.jpg') right center no-repeat; /* fallback */
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat,
+  -webkit-gradient(
+  linear,
+  left top,
+  left bottom,
+  color-stop(0, #584AFC),
+  color-stop(0.41, #1C98C9)
+);
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat, -o-linear-gradient(bottom, #584AFC 0%, #1C98C9 41%);
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat,-moz-linear-gradient(bottom, #584AFC 0%, #1C98C9 41%);
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat, -webkit-linear-gradient(bottom, #584AFC 0%, #1C98C9 41%);
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat, -ms-linear-gradient(bottom, #584AFC 0%, #1C98C9 41%);
+background: url('../images/cfsr_logo.png') left center no-repeat, url('../images/acf_logo.jpg') right center no-repeat, linear-gradient(to bottom, #584AFC 0%, #1C98C9 41%);
+}
+
+  .top-bar {
+  color: white;
+  margin: 0;
+  padding: 20px;
+
+  /*
+  background: -webkit-gradient(
+  linear,
+  left top,
+  left bottom,
+  color-stop(0, #E9F5D3),
+  color-stop(0.6, #1AA3D9)
+);
+background: -o-linear-gradient(bottom, #E9F5D3 0%, #1AA3D9 60%);
+background: -moz-linear-gradient(bottom, #E9F5D3 0%, #1AA3D9 60%);
+background: -webkit-linear-gradient(bottom, #E9F5D3 0%, #1AA3D9 60%);
+background: -ms-linear-gradient(bottom, #E9F5D3 0%, #1AA3D9 60%);
+background: linear-gradient(to bottom, #E9F5D3 0%, #1AA3D9 60%);
+  */
+  }
+
+  

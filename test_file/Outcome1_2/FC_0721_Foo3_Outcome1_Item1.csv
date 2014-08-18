@@ -1,0 +1,21 @@
+" "," "
+"Outcome 1 Item 1",
+"Case Applicable ",No
+"Question 1A ",333
+"Question 1B ","Not available"
+"Question 1C ",NULL
+"Question 1_C_Explanation ","Not available"
+"Item 1 Rating"," "
+"Item 1 Rating ","NA (Not Applicable)"
+"Item 1 Rating_Explanation ","Not available"
+"Item 1 Rating Sources_0","case file"
+
+, , , , A1 Reports Table, , , , , 
+Report Date, First Name of Child, Allegation, Priority Level, Assessment or Investigation, Date Assigned for an Investigation or Assessment, Date Investigation or Assessment Initiated, Date of Face-to-Face Contact With Child, Relationship of Alleged Perpetrator to Child, Disposition
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 

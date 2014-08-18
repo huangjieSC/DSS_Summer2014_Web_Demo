@@ -1,0 +1,38 @@
+,
+"Face Sheet",
+"A. Name of state and county: ",richland
+"B. Case name: ","jane doe"
+"C. Period under review: ","2014/04/16 - 2014/05/16"
+"D1. Reviewer name(s): ","jane dow"
+"D2. QA Completed by: ","jane dow"
+"E. Date case reviewed: ",07/03/2014
+" "," "
+"Question G.","In Home Services - Differential/Alternative Response"
+"Question H.",No
+"Question I.",07/15/2014
+"Question J.",NA
+"Question K.",07/23/2014
+"Question L.","Case not closed by time of review"
+"Question M1 Reason(s)_0","Sexual abuse"
+"Question M1 Reason(s)_1","Emotional maltreatment"
+"Question M2.","Mental/physical health of child"
+
+, , , F1 Child Table, , , , , 
+Target Child(Yes/No), Child(ren)'s Name(s), Race(s), Ethnicity, Date(s) of Birth (MM/DD/YY):, Gender:, Interviewed (Yes/No), 
+Yes, jane doe, Asian, Non-Hispanic, 07/01/2014, Female, Yes, 
+No, jane doe, Unknown or Unable to Determine, Non-Hispanic, 07/07/2014, Male, No, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, NULL, NULL, NULL, 
+
+, F2 Case Participant Table, , , , , 
+Name, Role, Relationship to Child, Interviewed (Yes/No),
+jane doe, Caseworker, jane doe , Yes, 
+jane doe, Other: jane doe other, jane doe, No, 
+NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, 
+NULL, NULL, NULL, NULL, 

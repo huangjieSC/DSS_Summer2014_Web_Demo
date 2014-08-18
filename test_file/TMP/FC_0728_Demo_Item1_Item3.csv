@@ -1,0 +1,170 @@
+" "," "
+"Face Sheet"," "
+FS_A,richland
+FS_B,FC_jane_doe
+FS_C,"2014/04/16 - 2014/05/16"
+FS_D_RN,"jane doe"
+FS_D_QACB,"jane doe; jane doe2; jane doe3"
+FS_E,07/10/2014
+FS_G,"In-Home Services"
+FS_H,No
+FS_I,07/19/2014
+FS_J,07/24/2014
+FS_J_NA,NULL
+FS_K,
+FS_K_RADIO,"Not Yet Discharged"
+FS_L,
+FS_L_RADIO,"Case not closed by time of review"
+FS_M1_SRC_1,NULL
+FS_M1_SRC_2,NULL
+FS_M1_SRC_3,NULL
+FS_M1_SRC_4,NULL
+FS_M1_SRC_5,NULL
+FS_M1_SRC_6,NULL
+FS_M1_SRC_7,"Emotional maltreatment"
+FS_M1_SRC_8,"Mental/physical health of child"
+FS_M1_SRC_9,"Child in juvenile justice system"
+FS_M1_SRC_10,"Neglect (not including medical neglect)"
+FS_M1_SRC_11,"Substance abuse by parent(s)"
+FS_M1_SRC_12,"Other (specify)"
+FS_M1_SRC_13,NULL
+FS_M1_SRC_14,NULL
+FS_M2,"Emotional maltreatment"
+"Item 1"," "
+O1_I1_AC,NULL
+O1_I1_A1,
+O1_I1_A1_Table," "
+O1_I1_A1_R0_C0,
+O1_I1_A1_R0_C1,
+O1_I1_A1_R0_C2,
+O1_I1_A1_R0_C3,
+O1_I1_A1_R0_C4,
+O1_I1_A1_R0_C5,
+O1_I1_A1_R0_C6,
+O1_I1_A1_R0_C7,
+O1_I1_A1_R0_C8,
+O1_I1_A1_R0_C9,
+O1_I1_A1_R1_C0,
+O1_I1_A1_R1_C1,
+O1_I1_A1_R1_C2,
+O1_I1_A1_R1_C3,
+O1_I1_A1_R1_C4,
+O1_I1_A1_R1_C5,
+O1_I1_A1_R1_C6,
+O1_I1_A1_R1_C7,
+O1_I1_A1_R1_C8,
+O1_I1_A1_R1_C9,
+O1_I1_A1_R2_C0,
+O1_I1_A1_R2_C1,
+O1_I1_A1_R2_C2,
+O1_I1_A1_R2_C3,
+O1_I1_A1_R2_C4,
+O1_I1_A1_R2_C5,
+O1_I1_A1_R2_C6,
+O1_I1_A1_R2_C7,
+O1_I1_A1_R2_C8,
+O1_I1_A1_R2_C9,
+O1_I1_A1_R3_C0,
+O1_I1_A1_R3_C1,
+O1_I1_A1_R3_C2,
+O1_I1_A1_R3_C3,
+O1_I1_A1_R3_C4,
+O1_I1_A1_R3_C5,
+O1_I1_A1_R3_C6,
+O1_I1_A1_R3_C7,
+O1_I1_A1_R3_C8,
+O1_I1_A1_R3_C9,
+O1_I1_A1_R4_C0,
+O1_I1_A1_R4_C1,
+O1_I1_A1_R4_C2,
+O1_I1_A1_R4_C3,
+O1_I1_A1_R4_C4,
+O1_I1_A1_R4_C5,
+O1_I1_A1_R4_C6,
+O1_I1_A1_R4_C7,
+O1_I1_A1_R4_C8,
+O1_I1_A1_R4_C9,
+O1_I1_A1_R5_C0,
+O1_I1_A1_R5_C1,
+O1_I1_A1_R5_C2,
+O1_I1_A1_R5_C3,
+O1_I1_A1_R5_C4,
+O1_I1_A1_R5_C5,
+O1_I1_A1_R5_C6,
+O1_I1_A1_R5_C7,
+O1_I1_A1_R5_C8,
+O1_I1_A1_R5_C9,
+O1_I1_A1_R6_C0,
+O1_I1_A1_R6_C1,
+O1_I1_A1_R6_C2,
+O1_I1_A1_R6_C3,
+O1_I1_A1_R6_C4,
+O1_I1_A1_R6_C5,
+O1_I1_A1_R6_C6,
+O1_I1_A1_R6_C7,
+O1_I1_A1_R6_C8,
+O1_I1_A1_R6_C9,
+O1_I1_B,
+O1_I1_C,
+O1_I1_C_EX,"	"
+O1_I1_R,NULL
+O1_I1_R_SRC_1,"case file"
+O1_I1_R_SRC_2,"mother interview"
+O1_I1_R_SRC_3,NULL
+O1_I1_R_SRC_4,NULL
+O1_I1_R_SRC_5,NULL
+O1_I1_R_SRC_6,NULL
+O1_I1_R_SRC_7,NULL
+O1_I1_R_EXP,"				"
+O1_R,
+"Item 2"," "
+O2_I2_AC,null
+O2_I2_A,null
+O2_I2_A_EXP,"        "
+O2_I2_B,null
+O2_I2_B_EXP,"        "
+O2_I2_R,null
+O2_I2_R_SRC_1,"case file"
+O2_I2_R_SRC_2,"mother interview"
+O2_I2_R_SRC_3,NULL
+O2_I2_R_SRC_4,NULL
+O2_I2_R_SRC_5,NULL
+O2_I2_R_SRC_6,NULL
+O2_I2_R_SRC_7,NULL
+O2_I2_R_EXP,"        "
+"Item 3"," "
+O2_I3_A1_SRC_1,NULL
+O2_I3_A1_SRC_2,NULL
+O2_I3_A1_SRC_3,NULL
+O2_I3_A,NULL
+O2_I3_A_EXP,"                    "
+O2_I3_B,NULL
+O2_I3_B_EXP,"                    "
+O2_I3_C,NULL
+O2_I3_C_EXP,"                    "
+O2_I3_D1_SRC_1,NULL
+O2_I3_D1_SRC_2,NULL
+O2_I3_D1_SRC_3,NULL
+O2_I3_D1_SRC_4,NULL
+O2_I3_D,NULL
+O2_I3_E1_SRC_1,NULL
+O2_I3_E1_SRC_2,NULL
+O2_I3_E1_SRC_3,NULL
+O2_I3_E1_SRC_4,NULL
+O2_I3_E,NULL
+O2_I3_F1_SRC_1,NULL
+O2_I3_F1_SRC_2,NULL
+O2_I3_F1_SRC_3,NULL
+O2_I3_F1_SRC_4,NULL
+O2_I3_F1_SRC_5,NULL
+O2_I3_F,NULL
+O2_I3_R,NULL
+O2_I3_R_SRC_1,NULL
+O2_I3_R_SRC_2,NULL
+O2_I3_R_SRC_3,NULL
+O2_I3_R_SRC_4,"foster parent interview"
+O2_I3_R_SRC_5,"child interview"
+O2_I3_R_SRC_6,"caseworker/supervisor interview"
+O2_I3_R_SRC_7,NULL
+O2_I3_R_EXP,"                    "
+O2_R,

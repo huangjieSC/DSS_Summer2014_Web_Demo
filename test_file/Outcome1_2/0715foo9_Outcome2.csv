@@ -1,0 +1,39 @@
+,
+"Outcome 2 Item 2",
+"Case Applicable ",Yes
+"Question 2A ",Yes
+"Question 2A_Explanation ","Not available"
+"Question 2B ",Yes
+"Question 2B_B_Explanation ","Not available"
+" "," "
+"Item 2 Rating"," "
+"Item 2 Rating ",Strength
+"Item 2 Rating_Explanation ","        rt erte sssssssssssssssssssss"
+"Item 2 Rating Sources_0",casefile
+"Item 2 Rating Sources_1","other interview"
+,
+"Outcome 2 Item 3",
+"Qustion 3A1_Apply_0","There were maltreatment allegations on the family that were reported to the agency but were inappropriately screened out (based on your judgments)"
+"Qustion 3A1_Apply_1","There were maltreatment allegations on the family but they were never formally reported or formally investigated"
+"Question 3A",NA
+"Question 3A_Explanation","Not available"
+"Question 3B",No
+"Question 3B_Explanation","        rt tttttt"
+"Question 3C",Yes
+"Question 3C_Explanation","Not available"
+"Question 3D1_Apply_0","Recurring safety concerns"
+"Question 3D1_Apply_1","The case was closed"
+"Question 3D",Yes
+"Question 3E1_Apply_0","Sufficient monitoring of visitation by parents/caretakers or other family members was not ensured"
+"Question 3E1_Apply_1","Other (describe the safety concerns that existed with visitation)"
+"Question 3E",Yes
+"Question 3F1_Apply_0","The child's placement during the period under review presented other risks to the child that are not being addressed, even though no allegation was made and no critical incident reports were filed"
+"Question 3F1_Apply_1","You discover that there are safety concerns related to the child in the foster home that the agency is unaware of because of inadequate monitoring"
+"Question 3F",Yes
+" "," "
+"Item 3 Rating",Strength
+"Item 3 Rating Sources_0",casefile
+"Item 3 Rating Sources_1",motherinterview
+"Item 3 Rating_Explanation","        hhhhhhhhhhh"
+" "," "
+"Outcome 2 Rating","Substantially Achieved"

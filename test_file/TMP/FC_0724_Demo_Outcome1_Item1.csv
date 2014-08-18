@@ -1,0 +1,49 @@
+" "," "
+O1_I1_AC,No
+O1_I1_A1,0
+O1_I1_B,
+O1_I1_C,
+O1_I1_C_EX,
+O1_I1_R,"NA (Not Applicable)"
+O1_I1_R_SRC_1,"case file"
+O1_I1_R_SRC_2,"mother interview"
+O1_I1_R_SRC_3,NULL
+O1_I1_R_SRC_4,NULL
+O1_I1_R_SRC_5,NULL
+O1_I1_R_SRC_6,NULL
+O1_I1_R_SRC_7,NULL
+O1_I1_R_EXP,"		test 1		"
+O2_I3_A1_SRC_1,"There were maltreatment allegations on the family that were reported to the agency but were inappropriately screened out (based on your judgments)"
+O2_I3_A1_SRC_2,"There were maltreatment allegations on the family but they were never formally reported or formally investigated"
+O2_I3_A1_SRC_3,"There were maltreatment allegations that were not substantiated despite evidence that would support substantiation"
+O2_I3_A,Yes
+O2_I3_A_EXP,
+O2_I3_B,No
+O2_I3_B_EXP,"                    test 2"
+O2_I3_C,NA
+O2_I3_C_EXP,
+O2_I3_D1_SRC_1,"Recurring maltreatment"
+O2_I3_D1_SRC_2,"Recurring safety concerns"
+O2_I3_D1_SRC_3,"The case was closed"
+O2_I3_D1_SRC_4,Other
+O2_I3_D,Yes
+O2_I3_E1_SRC_1,"Sufficient monitoring of visitation by parents/caretakers or other family members was not ensured"
+O2_I3_E1_SRC_2,"Unsupervised visitation was allowed when it was not appropriate"
+O2_I3_E1_SRC_3,"Visitation was court-ordered despite safety concerns that could not be controlled with supervision"
+O2_I3_E1_SRC_4,"Other (describe the safety concerns that existed with visitation)"
+O2_I3_E,No
+O2_I3_F1_SRC_1,"There was a substantiated allegation of maltreatment of the child by a foster parent"
+O2_I3_F1_SRC_2,"There was a critical incident report or other major issue relevant to noncompliance by foster parents or facility staff that could potentially make the child unsafe, and the agency could have prevented it or did not provide an adequate response after it occurred."
+O2_I3_F1_SRC_3,"The child's placement during the period under review presented other risks to the child that are not being addressed, even though no allegation was made and no critical incident reports were filed"
+O2_I3_F1_SRC_4,"You discover that there are safety concerns related to the child in the foster home that the agency is unaware of because of inadequate monitoring"
+O2_I3_F1_SRC_5,"Other (describe the safety concerns that existed with the child’s foster placement)"
+O2_I3_F,NA
+O2_I3_R,Strength
+O2_I3_R_SRC_1,"case file"
+O2_I3_R_SRC_2,"mother interview"
+O2_I3_R_SRC_3,"father interview"
+O2_I3_R_SRC_4,"foster parent interview"
+O2_I3_R_SRC_5,"child interview"
+O2_I3_R_SRC_6,"caseworker/supervisor interview"
+O2_I3_R_SRC_7,"other interview"
+O2_I3_R_EXP,"                 test 4   "
